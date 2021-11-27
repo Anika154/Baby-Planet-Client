@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Anika",
+        "email": "anikaanjum408@gmail.com",
+        "Phone": "01906047408"
+    },
+    {
+        "id": 2,
+        "name": "Samia",
+        "email": "samia@gmail.com",
+        "Phone": "01524689008"
+    },
+    {
+        "id": 3,
+        "name": "Akhi",
+        "email": "akhi@gmail.com",
+        "Phone": "01785643920"
+    },
+    {
+        "id": 4,
+        "name": "Partho",
+        "email": "partho@gmail.com",
+        "Phone": "015463636678"
+    },
+    {
+        "id": 5,
+        "name": "Rupsha",
+        "email": "rupsha8@gmail.com",
+        "Phone": "0135465678"
+    },
+    {
+        "id": 6,
+        "name": "Asmani",
+        "email": "asmani12@gmail.com",
+        "Phone": "01876535356"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Johnson's Baby Shampoo",
+        "price": "$1,900",
+        "description": "If you are looking for a great, classic baby shampoo that does the job, smells great, and has generally safe ingredients, you can’t beat Johnson & Johnson’s updated tear-free baby shampoo.",
+        "img": "https://i.ibb.co/YDHMjhM/jns-381371175024-600ml-00000-1000wx1000h.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Cetaphil Baby Wash & Shampoo",
+        "price": "$1,230",
+        "description": "This baby shampoo and body wash, from well-known brand Cetaphil, claims to be tear-free and contains some nice skin-friendly ingredients such as calendula (a flower oil) and vitamins E and B5 (panthenol).",
+        "img": "https://i.ibb.co/d0R4gF6/537-xlarge-1.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Pippete Baby Shampoo",
+        "price": "$2,000",
+        "description": "While many baby shampoos do in fact double as a body wash, we love this particular shampoo/body wash combo from Pipette.",
+        "img": "https://i.ibb.co/gWzwWhH/download.jpg"
+    },
+    {
+        "id": "4",
+        "name": "CeraVe Baby Wash",
+        "price": "$1,800",
+        "description": "This gentle baby shampoo from dermatologist-developed CeraVe gets a very good score from the EWG, and has the National Eczema Association’s seal of approval.",
+        "img": "https://i.ibb.co/bHDHrq8/download-1.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Cantu Kid",
+        "price": "$2,000",
+        "description": "Whether your little one is just starting to get wavy locks, or already has a full head of curls or coils, this tear-free shampoo from Cantu Care for Kids is a great option for natural or textured hair.",
+        "img": "https://i.ibb.co/b5snZMw/download-2.jpg"
+    },
+    {
+        "id": "6",
+        "name": "babyDove",
+        "price": "$3,000",
+        "description": "This gentle, rich shampoo and body wash from Baby Dove is a favorite among parents. It is moisturizing, budget-friendly, and free of parabens and phthalates. ",
+        "img": "https://i.ibb.co/7N9V4hF/002111153.jpg"
+    },
+    {
+        "id": "7",
+        "name": "CeraVe Baby Wash",
+        "price": "$1,800",
+        "description": "This gentle baby shampoo from dermatologist-developed CeraVe gets a very good score from the EWG, and has the National Eczema Association’s seal of approval.",
+        "img": "https://i.ibb.co/bHDHrq8/download-1.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Cantu Kid",
+        "price": "$2,000",
+        "description": "Whether your little one is just starting to get wavy locks, or already has a full head of curls or coils, this tear-free shampoo from Cantu Care for Kids is a great option for natural or textured hair.",
+        "img": "https://i.ibb.co/b5snZMw/download-2.jpg"
+    },
+    {
+        "id": "9",
+        "name": "babyDove",
+        "price": "$3,000",
+        "description": "This gentle, rich shampoo and body wash from Baby Dove is a favorite among parents. It is moisturizing, budget-friendly, and free of parabens and phthalates. ",
+        "img": "https://i.ibb.co/7N9V4hF/002111153.jpg"
+    },
+    {
+        "id": "10",
+        "name": "babyDove",
+        "price": "$3,000",
+        "description": "This gentle, rich shampoo and body wash from Baby Dove is a favorite among parents. It is moisturizing, budget-friendly, and free of parabens and phthalates. ",
+        "img": "https://i.ibb.co/7N9V4hF/002111153.jpg"
+    }
+]
